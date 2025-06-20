@@ -2,7 +2,6 @@
 
 🎓 Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
 🧠 Transitioning into Robotics Software & Machine Learning Engineering from Mechancical Engineering 
-<!--📱 Building **SkillStream** – a short-form learning app to help users grow hobbies through personalized, educational content-->
 🛠 Engineering full-stack applications, from front-end design to backend architecture and AI-powered features 
 🚀 Passionate about hobby-based learning, intuitive UI/UX, and meaningful tech that makes life better
 <!--
