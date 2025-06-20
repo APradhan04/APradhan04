@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Anish Pradhan
 
 - 🎓 Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
-- 🧠 Transitioning into Robotics Software & Machine Learning Engineering from Mechancical Engineering 
+- 🧠 Transitioning into Robotics Software & Machine Learning Engineering from Mechanical Engineering 
 - 🛠 Engineering full-stack applications, from front-end design to backend architecture and AI-powered features 
-- 🚀 Passionate about hobby-based learning, intuitive UI/UX, and meaningful tech that makes life better
+- 🚀 I'm passionate about high-performance engineering, data-driven design, and applying machine learning to both mechanical and financial systems.  
+
 <!--
 ---
 
@@ -54,7 +55,7 @@ Designed a fatigue-safe shaft system for a turbopump using MATLAB:
 - Autonomous systems, control, and data fusion  
 - Frontend optimization and user-centered design  
 - Ethical and motivating alternatives to ad-driven media platforms
--->
+
 ---
 
 ## 📫 Get in Touch
@@ -63,3 +64,4 @@ Designed a fatigue-safe shaft system for a turbopump using MATLAB:
 - 🧠 LinkedIn: [https://www.linkedin.com/in/apradhan17/](https://www.linkedin.com/in/apradhan17/)  
 
 ⭐️ Feel free to explore my projects, open issues, or connect for collaborations!
+-->
