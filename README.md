@@ -1,24 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish Pradhan
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apradhan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=apradhan04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apradhan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓 Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
+🧠 Transitioning into Robotics Software & Machine Learning Engineering from Mechancical Engineering 
+<!--📱 Building **SkillStream** – a short-form learning app to help users grow hobbies through personalized, educational content-->
+🛠 Engineering full-stack applications, from front-end design to backend architecture and AI-powered features 
+🚀 Passionate about hobby-based learning, intuitive UI/UX, and meaningful tech that makes life better
 <!--
-**APradhan04/APradhan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Languages**: Python, JavaScript (ES6+), C++, MATLAB, HTML/CSS, SQL  
+- **Frameworks & Libraries**: React, Next.js, Express, Node.js, Tailwind CSS, Flask, Firebase, pandas, NumPy, Matplotlib  
+- **Tools & Platforms**: Git, GitHub, VS Code, Figma, Firebase, Vercel, Netlify, Postman, Jupyter, Fusion 360  
+- **Hardware/Simulation**: SolidWorks, ANSYS, Arduino, GBA/LC-3  
+- **AI/ML**: TensorFlow (starter), Scikit-learn, OpenAI APIs, vector databases  
+- **Learning**: AWS, Hugging Face, Supabase, CI/CD, system design, iOS app development with Swift
+
+---
+
+## 🛠️ Notable Projects
+
+### 📱 SkillStream – Personalized Learning App for Hobby Growth
+Creating a short-form video platform that replaces doom-scrolling with progress-tracking, hobby-based discovery, and educational content.
+- **Tech**: React, Node.js, Express, Firebase Auth + Firestore, Tailwind, OpenAI API  
+- **Features**: Personalized feeds based on selected hobbies (Cooking, Fitness, Engineering), AI-generated grocery lists & summaries, calorie tracking, year-long progress logs  
+- **Goal**: Launch iOS MVP with scalable backend and modular architecture
+
+### 🔧 Engineering Tools & GBA Games
+Built a GBA game in C where a chicken dodges nuggets, complete with collision detection, state transitions, score tracking, and victory logic.
+- **Tech**: C, CS 2110 GBA library, DMA graphics, makefiles, memory-mapped IO  
+- **Focus**: Low-level graphics, finite state machines, hardware register access
+
+Designed a fatigue-safe shaft system for a turbopump using MATLAB:
+- **Tech**: MATLAB, custom gear/bearing calculators, AGMA equations, stress analysis using class notes  
+- **Features**: Step-by-step fatigue, contact stress, and shaft design automation with precise unit tracking
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Build a robust MVP of SkillStream (currently focused on **Cooking**)  
+- 🔁 Integrate OpenAI and computer vision tools into SkillStream for smarter recommendations  
+- 📱 Launch on iOS, then expand to cross-platform  
+- 🤖 Deepen skills in robotics software (ROS2, computer vision, LLMs in embedded systems)  
+- 🧠 Finish foundational ML path by **August 15** (transitioning into robotics/software roles)
+
+---
+
+## 🌱 Always Learning
+
+- Applied AI for education and productivity  
+- Scalable backend systems and serverless deployment  
+- Autonomous systems, control, and data fusion  
+- Frontend optimization and user-centered design  
+- Ethical and motivating alternatives to ad-driven media platforms
 -->
+---
+
+## 📫 Get in Touch
+
+- 🌐 Website (soon)
+- 🧠 LinkedIn: [https://www.linkedin.com/in/apradhan17/](https://www.linkedin.com/in/apradhan17/)  
+
+⭐️ Feel free to explore my projects, open issues, or connect for collaborations!
