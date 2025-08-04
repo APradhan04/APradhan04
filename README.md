@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Anish Pradhan
 
-- 🎓 Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
-- 🧠 Transitioning into Robotics Software & Machine Learning Engineering from Mechanical Engineering 
-- 🛠 Engineering full-stack applications, from front-end design to backend architecture and AI-powered features 
-- 🚀 I'm passionate about high-performance engineering, data-driven design, and applying machine learning to both mechanical and financial systems.  
+- Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
+- Transitioning into Robotics Software & Machine Learning Engineering from Mechanical Engineering 
+- Engineering full-stack applications, from front-end design to backend architecture and AI-powered features 
+- I'm passionate about high-performance engineering, data-driven design, and applying machine learning to both mechanical and financial systems.  
 
 <!--
 ---
