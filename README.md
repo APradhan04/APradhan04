@@ -1,4 +1,4 @@
-#  Hi, I'm Anish Pradhan
+# Hi, I'm Anish Pradhan
 
 - Mechanical Engineering major at Georgia Tech with a minor in Computer Science and Aerospace
 - Transitioning into Robotics Software & Machine Learning Engineering from Mechanical Engineering 
